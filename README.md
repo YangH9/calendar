@@ -1,7 +1,7 @@
 # calendar
 日历文件仓库，存放历史日历文件和其他日历订阅文件
 
-> <!-- [update time start] -->更新时间：2025-08-21<!-- [update time end] -->
+> <!-- [update time start] -->更新时间：2025-10-25<!-- [update time end] -->
 
 [中华人民共和国节日、纪念日、假日调休、二十四节气、天干地支农历日历](https://yangh9.github.io/ChinaCalendar/)
 
