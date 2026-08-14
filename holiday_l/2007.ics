@@ -21,7 +21,7 @@ DTSTART:20061230T090000
 DTEND:20061231T180000
 UID:20061230T000001_compensateday_1@YangH9
 CREATED:20061230T000001
-LAST-MODIFIED:20260814T131351
+LAST-MODIFIED:20260814T143840
 SUMMARY:「元旦 补班」 共2天
 DESCRIPTION:一、元旦：1月1日—3日放假，共3天。其中1月1日为法定假日，将2006年12月30日（星期六）、31日（星期日）两个公休日分别调至2007年1月2日、3日，2006年12月30日（星期六）、31日（星期日）上班。\n\n放假通知：https://www.gov.cn/gongbao/content/2007/content_503397.htm\n\n更新时间：2026-08-14
 STATUS:TENTATIVE
@@ -37,7 +37,7 @@ DTSTART;VALUE=DATE:20070101
 DTEND;VALUE=DATE:20070104
 UID:20070101T000001_holiday_2@YangH9
 CREATED:20070101T000001
-LAST-MODIFIED:20260814T131351
+LAST-MODIFIED:20260814T143840
 SUMMARY:「元旦 假期」 共3天
 DESCRIPTION:一、元旦：1月1日—3日放假，共3天。其中1月1日为法定假日，将2006年12月30日（星期六）、31日（星期日）两个公休日分别调至2007年1月2日、3日，2006年12月30日（星期六）、31日（星期日）上班。\n\n放假通知：https://www.gov.cn/gongbao/content/2007/content_503397.htm\n\n更新时间：2026-08-14
 STATUS:CONFIRMED
@@ -49,7 +49,7 @@ DTSTART:20070217T090000
 DTEND:20070217T180000
 UID:20070217T000001_compensateday_3@YangH9
 CREATED:20070217T000001
-LAST-MODIFIED:20260814T131351
+LAST-MODIFIED:20260814T143840
 SUMMARY:「春节 补班」 第1天/共2天
 DESCRIPTION:二、春节：2月18日—24日（即农历大年初一至初七）放假，共7天。其中18日、19日、20日为法定假日，将17日（星期六）、18日（星期日）、25日（星期日）三个公休日分别调至21日（星期三）、22日（星期四）、23日（星期五）；24日（星期六）照常公休，17日、25日上班。\n\n放假通知：https://www.gov.cn/gongbao/content/2007/content_503397.htm\n\n更新时间：2026-08-14
 STATUS:TENTATIVE
@@ -65,7 +65,7 @@ DTSTART;VALUE=DATE:20070218
 DTEND;VALUE=DATE:20070225
 UID:20070218T000001_holiday_4@YangH9
 CREATED:20070218T000001
-LAST-MODIFIED:20260814T131351
+LAST-MODIFIED:20260814T143840
 SUMMARY:「春节 假期」 共7天
 DESCRIPTION:二、春节：2月18日—24日（即农历大年初一至初七）放假，共7天。其中18日、19日、20日为法定假日，将17日（星期六）、18日（星期日）、25日（星期日）三个公休日分别调至21日（星期三）、22日（星期四）、23日（星期五）；24日（星期六）照常公休，17日、25日上班。\n\n放假通知：https://www.gov.cn/gongbao/content/2007/content_503397.htm\n\n更新时间：2026-08-14
 STATUS:CONFIRMED
@@ -77,7 +77,7 @@ DTSTART:20070225T090000
 DTEND:20070225T180000
 UID:20070225T000001_compensateday_5@YangH9
 CREATED:20070225T000001
-LAST-MODIFIED:20260814T131351
+LAST-MODIFIED:20260814T143840
 SUMMARY:「春节 补班」 第2天/共2天
 DESCRIPTION:二、春节：2月18日—24日（即农历大年初一至初七）放假，共7天。其中18日、19日、20日为法定假日，将17日（星期六）、18日（星期日）、25日（星期日）三个公休日分别调至21日（星期三）、22日（星期四）、23日（星期五）；24日（星期六）照常公休，17日、25日上班。\n\n放假通知：https://www.gov.cn/gongbao/content/2007/content_503397.htm\n\n更新时间：2026-08-14
 STATUS:TENTATIVE
@@ -93,7 +93,7 @@ DTSTART:20070428T090000
 DTEND:20070429T180000
 UID:20070428T000001_compensateday_6@YangH9
 CREATED:20070428T000001
-LAST-MODIFIED:20260814T131351
+LAST-MODIFIED:20260814T143840
 SUMMARY:「“五一” 补班」 共2天
 DESCRIPTION:三、“五一”：5月1日—7日放假，共7天。其中，1日、2日、3日为法定假日，将4月28日（星期六）、29日（星期日）两个公休日调至5月4日（星期五）、7日（星期一）；5月5日（星期六）、6日（星期日）照常公休，4月28日、29日上班。\n\n放假通知：https://www.gov.cn/gongbao/content/2007/content_503397.htm\n\n更新时间：2026-08-14
 STATUS:TENTATIVE
@@ -109,7 +109,7 @@ DTSTART;VALUE=DATE:20070501
 DTEND;VALUE=DATE:20070508
 UID:20070501T000001_holiday_7@YangH9
 CREATED:20070501T000001
-LAST-MODIFIED:20260814T131351
+LAST-MODIFIED:20260814T143840
 SUMMARY:「“五一” 假期」 共7天
 DESCRIPTION:三、“五一”：5月1日—7日放假，共7天。其中，1日、2日、3日为法定假日，将4月28日（星期六）、29日（星期日）两个公休日调至5月4日（星期五）、7日（星期一）；5月5日（星期六）、6日（星期日）照常公休，4月28日、29日上班。\n\n放假通知：https://www.gov.cn/gongbao/content/2007/content_503397.htm\n\n更新时间：2026-08-14
 STATUS:CONFIRMED
@@ -121,7 +121,7 @@ DTSTART:20070929T090000
 DTEND:20070930T180000
 UID:20070929T000001_compensateday_8@YangH9
 CREATED:20070929T000001
-LAST-MODIFIED:20260814T131351
+LAST-MODIFIED:20260814T143840
 SUMMARY:「“十一” 补班」 共2天
 DESCRIPTION:四、“十一”：10月1日—7日放假，共7天。其中，1日、2日、3日为法定假日，将9月29日（星期六）、30日（星期日）两个公休日调至10月4日（星期四）、5日（星期五）；10月6日（星期六）、7日（星期日）照常公休，9月29日、30日上班。\n\n放假通知：https://www.gov.cn/gongbao/content/2007/content_503397.htm\n\n更新时间：2026-08-14
 STATUS:TENTATIVE
@@ -137,7 +137,7 @@ DTSTART;VALUE=DATE:20071001
 DTEND;VALUE=DATE:20071008
 UID:20071001T000001_holiday_9@YangH9
 CREATED:20071001T000001
-LAST-MODIFIED:20260814T131351
+LAST-MODIFIED:20260814T143840
 SUMMARY:「“十一” 假期」 共7天
 DESCRIPTION:四、“十一”：10月1日—7日放假，共7天。其中，1日、2日、3日为法定假日，将9月29日（星期六）、30日（星期日）两个公休日调至10月4日（星期四）、5日（星期五）；10月6日（星期六）、7日（星期日）照常公休，9月29日、30日上班。\n\n放假通知：https://www.gov.cn/gongbao/content/2007/content_503397.htm\n\n更新时间：2026-08-14
 STATUS:CONFIRMED
