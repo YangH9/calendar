@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:中华人民共和国法定节假日调休补班日历(时间段版本)
 X-WR-TIMEZONE:Asia/Shanghai
-X-WR-CALDESC:更新时间：2026-08-19
+X-WR-CALDESC:更新时间：2026-11-05
 BEGIN:VTIMEZONE
 TZID:Asia/Shanghai
 X-LIC-LOCATION:Asia/Shanghai
@@ -21,9 +21,9 @@ DTSTART:20090101T000000
 DTEND:20090103T235959
 UID:20090101T000001_holiday_1_1@YangH9
 CREATED:20090101T000001
-LAST-MODIFIED:20260819T161758
+LAST-MODIFIED:20261105T175834
 SUMMARY:「元旦 假期」 共3天
-DESCRIPTION:一、元旦：1月1日至3日放假，共3天。其中，1月1日（星期四、新年）为法定节假日，1月3日（星期六）为公休日。1月4日（星期日）公休日调至1月2日（星期五）。1月4日（星期日）上班。\n\n放假通知：https://www.gov.cn/gongbao/content/2008/content_1175823.htm\n\n更新时间：2026-08-19
+DESCRIPTION:一、元旦：1月1日至3日放假，共3天。其中，1月1日（星期四、新年）为法定节假日，1月3日（星期六）为公休日。1月4日（星期日）公休日调至1月2日（星期五）。1月4日（星期日）上班。\n\n放假通知：https://www.gov.cn/gongbao/content/2008/content_1175823.htm\n\n更新时间：2026-11-05
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:1
@@ -33,9 +33,9 @@ DTSTART:20090104T090000
 DTEND:20090104T180000
 UID:20090104T000001_compensateday_1_2@YangH9
 CREATED:20090104T000001
-LAST-MODIFIED:20260819T161758
+LAST-MODIFIED:20261105T175834
 SUMMARY:「元旦 补班」 第1天/共1天
-DESCRIPTION:一、元旦：1月1日至3日放假，共3天。其中，1月1日（星期四、新年）为法定节假日，1月3日（星期六）为公休日。1月4日（星期日）公休日调至1月2日（星期五）。1月4日（星期日）上班。\n\n放假通知：https://www.gov.cn/gongbao/content/2008/content_1175823.htm\n\n更新时间：2026-08-19
+DESCRIPTION:一、元旦：1月1日至3日放假，共3天。其中，1月1日（星期四、新年）为法定节假日，1月3日（星期六）为公休日。1月4日（星期日）公休日调至1月2日（星期五）。1月4日（星期日）上班。\n\n放假通知：https://www.gov.cn/gongbao/content/2008/content_1175823.htm\n\n更新时间：2026-11-05
 STATUS:TENTATIVE
 TRANSP:OPAQUE
 SEQUENCE:1
@@ -49,9 +49,9 @@ DTSTART:20090124T090000
 DTEND:20090124T180000
 UID:20090124T000001_compensateday_1_3@YangH9
 CREATED:20090124T000001
-LAST-MODIFIED:20260819T161758
+LAST-MODIFIED:20261105T175834
 SUMMARY:「春节 补班」 第1天/共2天
-DESCRIPTION:二、春节：1月25日至31日放假，共7天。其中，1月25日（星期日、农历除夕）、1月26日（星期一、农历正月初一）、1月27日（星期二、农历正月初二）为法定节假日，1月31日（星期六）照常公休；1月25日（星期日）公休日调至1月28日（星期三），1月24日（星期六）、2月1日（星期日）两个公休日调至1月29日（星期四）、1月30日（星期五）。1月24日（星期六）、2月1日（星期日）上班。\n\n放假通知：https://www.gov.cn/gongbao/content/2008/content_1175823.htm\n\n更新时间：2026-08-19
+DESCRIPTION:二、春节：1月25日至31日放假，共7天。其中，1月25日（星期日、农历除夕）、1月26日（星期一、农历正月初一）、1月27日（星期二、农历正月初二）为法定节假日，1月31日（星期六）照常公休；1月25日（星期日）公休日调至1月28日（星期三），1月24日（星期六）、2月1日（星期日）两个公休日调至1月29日（星期四）、1月30日（星期五）。1月24日（星期六）、2月1日（星期日）上班。\n\n放假通知：https://www.gov.cn/gongbao/content/2008/content_1175823.htm\n\n更新时间：2026-11-05
 STATUS:TENTATIVE
 TRANSP:OPAQUE
 SEQUENCE:1
@@ -65,9 +65,9 @@ DTSTART:20090125T000000
 DTEND:20090131T235959
 UID:20090125T000001_holiday_1_4@YangH9
 CREATED:20090125T000001
-LAST-MODIFIED:20260819T161758
+LAST-MODIFIED:20261105T175834
 SUMMARY:「春节 假期」 共7天
-DESCRIPTION:二、春节：1月25日至31日放假，共7天。其中，1月25日（星期日、农历除夕）、1月26日（星期一、农历正月初一）、1月27日（星期二、农历正月初二）为法定节假日，1月31日（星期六）照常公休；1月25日（星期日）公休日调至1月28日（星期三），1月24日（星期六）、2月1日（星期日）两个公休日调至1月29日（星期四）、1月30日（星期五）。1月24日（星期六）、2月1日（星期日）上班。\n\n放假通知：https://www.gov.cn/gongbao/content/2008/content_1175823.htm\n\n更新时间：2026-08-19
+DESCRIPTION:二、春节：1月25日至31日放假，共7天。其中，1月25日（星期日、农历除夕）、1月26日（星期一、农历正月初一）、1月27日（星期二、农历正月初二）为法定节假日，1月31日（星期六）照常公休；1月25日（星期日）公休日调至1月28日（星期三），1月24日（星期六）、2月1日（星期日）两个公休日调至1月29日（星期四）、1月30日（星期五）。1月24日（星期六）、2月1日（星期日）上班。\n\n放假通知：https://www.gov.cn/gongbao/content/2008/content_1175823.htm\n\n更新时间：2026-11-05
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:1
@@ -77,9 +77,9 @@ DTSTART:20090201T090000
 DTEND:20090201T180000
 UID:20090201T000001_compensateday_1_5@YangH9
 CREATED:20090201T000001
-LAST-MODIFIED:20260819T161758
+LAST-MODIFIED:20261105T175834
 SUMMARY:「春节 补班」 第2天/共2天
-DESCRIPTION:二、春节：1月25日至31日放假，共7天。其中，1月25日（星期日、农历除夕）、1月26日（星期一、农历正月初一）、1月27日（星期二、农历正月初二）为法定节假日，1月31日（星期六）照常公休；1月25日（星期日）公休日调至1月28日（星期三），1月24日（星期六）、2月1日（星期日）两个公休日调至1月29日（星期四）、1月30日（星期五）。1月24日（星期六）、2月1日（星期日）上班。\n\n放假通知：https://www.gov.cn/gongbao/content/2008/content_1175823.htm\n\n更新时间：2026-08-19
+DESCRIPTION:二、春节：1月25日至31日放假，共7天。其中，1月25日（星期日、农历除夕）、1月26日（星期一、农历正月初一）、1月27日（星期二、农历正月初二）为法定节假日，1月31日（星期六）照常公休；1月25日（星期日）公休日调至1月28日（星期三），1月24日（星期六）、2月1日（星期日）两个公休日调至1月29日（星期四）、1月30日（星期五）。1月24日（星期六）、2月1日（星期日）上班。\n\n放假通知：https://www.gov.cn/gongbao/content/2008/content_1175823.htm\n\n更新时间：2026-11-05
 STATUS:TENTATIVE
 TRANSP:OPAQUE
 SEQUENCE:1
@@ -93,9 +93,9 @@ DTSTART:20090404T000000
 DTEND:20090406T235959
 UID:20090404T000001_holiday_1_6@YangH9
 CREATED:20090404T000001
-LAST-MODIFIED:20260819T161758
+LAST-MODIFIED:20261105T175834
 SUMMARY:「清明节 假期」 共3天
-DESCRIPTION:三、清明节：4月4日至6日放假，共3天。其中，4月4日（星期六、农历清明当日）为法定节假日，4月5日（星期日）照常公休。4月4日（星期六）公休日调至4月6日（星期一）。\n\n放假通知：https://www.gov.cn/gongbao/content/2008/content_1175823.htm\n\n更新时间：2026-08-19
+DESCRIPTION:三、清明节：4月4日至6日放假，共3天。其中，4月4日（星期六、农历清明当日）为法定节假日，4月5日（星期日）照常公休。4月4日（星期六）公休日调至4月6日（星期一）。\n\n放假通知：https://www.gov.cn/gongbao/content/2008/content_1175823.htm\n\n更新时间：2026-11-05
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:1
@@ -105,9 +105,9 @@ DTSTART:20090501T000000
 DTEND:20090503T235959
 UID:20090501T000001_holiday_1_7@YangH9
 CREATED:20090501T000001
-LAST-MODIFIED:20260819T161758
+LAST-MODIFIED:20261105T175834
 SUMMARY:「劳动节 假期」 共3天
-DESCRIPTION:四、劳动节：5月1日至3日放假，共3天。其中，5月1日（星期五、“五一”国际劳动节）为法定节假日，5月2日（星期六）、5月3日（星期日）照常公休。\n\n放假通知：https://www.gov.cn/gongbao/content/2008/content_1175823.htm\n\n更新时间：2026-08-19
+DESCRIPTION:四、劳动节：5月1日至3日放假，共3天。其中，5月1日（星期五、“五一”国际劳动节）为法定节假日，5月2日（星期六）、5月3日（星期日）照常公休。\n\n放假通知：https://www.gov.cn/gongbao/content/2008/content_1175823.htm\n\n更新时间：2026-11-05
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:1
@@ -117,9 +117,9 @@ DTSTART:20090528T000000
 DTEND:20090530T235959
 UID:20090528T000001_holiday_1_8@YangH9
 CREATED:20090528T000001
-LAST-MODIFIED:20260819T161758
+LAST-MODIFIED:20261105T175834
 SUMMARY:「端午节 假期」 共3天
-DESCRIPTION:五、端午节：5月28日至30日放假，共3天。其中，5月28日（星期四、农历端午当日）为法定节假日，5月30日（星期六）照常公休；5月31日（星期日）公休日调至5月29日（星期五）。5月31日（星期日）上班。\n\n放假通知：https://www.gov.cn/gongbao/content/2008/content_1175823.htm\n\n更新时间：2026-08-19
+DESCRIPTION:五、端午节：5月28日至30日放假，共3天。其中，5月28日（星期四、农历端午当日）为法定节假日，5月30日（星期六）照常公休；5月31日（星期日）公休日调至5月29日（星期五）。5月31日（星期日）上班。\n\n放假通知：https://www.gov.cn/gongbao/content/2008/content_1175823.htm\n\n更新时间：2026-11-05
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:1
@@ -129,9 +129,9 @@ DTSTART:20090531T090000
 DTEND:20090531T180000
 UID:20090531T000001_compensateday_1_9@YangH9
 CREATED:20090531T000001
-LAST-MODIFIED:20260819T161758
+LAST-MODIFIED:20261105T175834
 SUMMARY:「端午节 补班」 第1天/共1天
-DESCRIPTION:五、端午节：5月28日至30日放假，共3天。其中，5月28日（星期四、农历端午当日）为法定节假日，5月30日（星期六）照常公休；5月31日（星期日）公休日调至5月29日（星期五）。5月31日（星期日）上班。\n\n放假通知：https://www.gov.cn/gongbao/content/2008/content_1175823.htm\n\n更新时间：2026-08-19
+DESCRIPTION:五、端午节：5月28日至30日放假，共3天。其中，5月28日（星期四、农历端午当日）为法定节假日，5月30日（星期六）照常公休；5月31日（星期日）公休日调至5月29日（星期五）。5月31日（星期日）上班。\n\n放假通知：https://www.gov.cn/gongbao/content/2008/content_1175823.htm\n\n更新时间：2026-11-05
 STATUS:TENTATIVE
 TRANSP:OPAQUE
 SEQUENCE:1
@@ -145,9 +145,9 @@ DTSTART:20090927T090000
 DTEND:20090927T180000
 UID:20090927T000001_compensateday_1_10@YangH9
 CREATED:20090927T000001
-LAST-MODIFIED:20260819T161758
+LAST-MODIFIED:20261105T175834
 SUMMARY:「国庆节、中秋节 补班」 第1天/共2天
-DESCRIPTION:六、国庆节、中秋节：10月1日至8日放假，共8天。其中，10月1日（星期四）、10月2日（星期五）、10月3日（星期六）为国庆节法定节假日，10月4日（星期日）照常公休；10月3日（星期六）公休日及中秋节分别调至10月5日（星期一）、10月6日（星期二），9月27日（星期日）、10月10日（星期六）公休日调至10月7日（星期三）、10月8日（星期四）。9月27日（星期日）、10月10日（星期六）上班。\n\n放假通知：https://www.gov.cn/gongbao/content/2008/content_1175823.htm\n\n更新时间：2026-08-19
+DESCRIPTION:六、国庆节、中秋节：10月1日至8日放假，共8天。其中，10月1日（星期四）、10月2日（星期五）、10月3日（星期六）为国庆节法定节假日，10月4日（星期日）照常公休；10月3日（星期六）公休日及中秋节分别调至10月5日（星期一）、10月6日（星期二），9月27日（星期日）、10月10日（星期六）公休日调至10月7日（星期三）、10月8日（星期四）。9月27日（星期日）、10月10日（星期六）上班。\n\n放假通知：https://www.gov.cn/gongbao/content/2008/content_1175823.htm\n\n更新时间：2026-11-05
 STATUS:TENTATIVE
 TRANSP:OPAQUE
 SEQUENCE:1
@@ -161,9 +161,9 @@ DTSTART:20091001T000000
 DTEND:20091008T235959
 UID:20091001T000001_holiday_1_11@YangH9
 CREATED:20091001T000001
-LAST-MODIFIED:20260819T161758
+LAST-MODIFIED:20261105T175834
 SUMMARY:「国庆节、中秋节 假期」 共8天
-DESCRIPTION:六、国庆节、中秋节：10月1日至8日放假，共8天。其中，10月1日（星期四）、10月2日（星期五）、10月3日（星期六）为国庆节法定节假日，10月4日（星期日）照常公休；10月3日（星期六）公休日及中秋节分别调至10月5日（星期一）、10月6日（星期二），9月27日（星期日）、10月10日（星期六）公休日调至10月7日（星期三）、10月8日（星期四）。9月27日（星期日）、10月10日（星期六）上班。\n\n放假通知：https://www.gov.cn/gongbao/content/2008/content_1175823.htm\n\n更新时间：2026-08-19
+DESCRIPTION:六、国庆节、中秋节：10月1日至8日放假，共8天。其中，10月1日（星期四）、10月2日（星期五）、10月3日（星期六）为国庆节法定节假日，10月4日（星期日）照常公休；10月3日（星期六）公休日及中秋节分别调至10月5日（星期一）、10月6日（星期二），9月27日（星期日）、10月10日（星期六）公休日调至10月7日（星期三）、10月8日（星期四）。9月27日（星期日）、10月10日（星期六）上班。\n\n放假通知：https://www.gov.cn/gongbao/content/2008/content_1175823.htm\n\n更新时间：2026-11-05
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SEQUENCE:1
@@ -173,9 +173,9 @@ DTSTART:20091010T090000
 DTEND:20091010T180000
 UID:20091010T000001_compensateday_1_12@YangH9
 CREATED:20091010T000001
-LAST-MODIFIED:20260819T161758
+LAST-MODIFIED:20261105T175834
 SUMMARY:「国庆节、中秋节 补班」 第2天/共2天
-DESCRIPTION:六、国庆节、中秋节：10月1日至8日放假，共8天。其中，10月1日（星期四）、10月2日（星期五）、10月3日（星期六）为国庆节法定节假日，10月4日（星期日）照常公休；10月3日（星期六）公休日及中秋节分别调至10月5日（星期一）、10月6日（星期二），9月27日（星期日）、10月10日（星期六）公休日调至10月7日（星期三）、10月8日（星期四）。9月27日（星期日）、10月10日（星期六）上班。\n\n放假通知：https://www.gov.cn/gongbao/content/2008/content_1175823.htm\n\n更新时间：2026-08-19
+DESCRIPTION:六、国庆节、中秋节：10月1日至8日放假，共8天。其中，10月1日（星期四）、10月2日（星期五）、10月3日（星期六）为国庆节法定节假日，10月4日（星期日）照常公休；10月3日（星期六）公休日及中秋节分别调至10月5日（星期一）、10月6日（星期二），9月27日（星期日）、10月10日（星期六）公休日调至10月7日（星期三）、10月8日（星期四）。9月27日（星期日）、10月10日（星期六）上班。\n\n放假通知：https://www.gov.cn/gongbao/content/2008/content_1175823.htm\n\n更新时间：2026-11-05
 STATUS:TENTATIVE
 TRANSP:OPAQUE
 SEQUENCE:1

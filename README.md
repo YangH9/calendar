@@ -2,13 +2,26 @@
 
 日历文件仓库，存放历史日历文件和其他日历订阅文件
 
-> <!-- [update time start] -->更新时间：2026-08-19<!-- [update time end] -->
+> <!-- [update time start] -->更新时间：2026-11-05<!-- [update time end] -->
 
 [中华人民共和国节日、纪念日、假日调休、二十四节气、天干地支农历日历](https://yangh9.github.io/ChinaCalendar/)
 
 ### 日历列表：
 
 <!-- [calendar list start] -->
+
+#### 2026年
+
+- [中华人民共和国节日、纪念日、法定节假日调休补班、二十四节气、农历天干地支日历](./history/2026/calendar.ics)
+- [中华人民共和国节日、纪念日、法定节假日调休补班、二十四节气、农历天干地支日历(时间段版本)](./history/2026/calendar_l.ics)
+- [中华人民共和国法定节假日调休补班日历](./history/2026/holiday.ics)
+- [中华人民共和国法定节假日调休补班日历(时间段版本)](./history/2026/holiday_l.ics)
+- [中华人民共和国法定节假日倒计时日历](./history/2026/countdown_holiday.ics)
+- [中华人民共和国春节倒计时日历](./history/2026/countdown_ChineseNewYear.ics)
+- [中华人民共和国节日纪念日日历](./history/2026/festival.ics)
+- [中华人民共和国二十四节气日历](./history/2026/solarTerm.ics)
+- [中华人民共和国农历、天干地支日历](./history/2026/lunar.ics)
+- [中华人民共和国天干地支、生辰八字日历](./history/2026/trunkBranch.ics)
 
 #### 2025年
 
